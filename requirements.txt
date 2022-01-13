@@ -14,7 +14,7 @@ idna==2.8
 instagram-py==0.0.1
 jsonschema==3.0.0a3
 meaningcloud-python==1.1.1
-Pillow==5.4.1
+Pillow==9.0.0
 plyer==1.3.2
 protobuf==3.6.1
 pyrsistent==0.14.8
